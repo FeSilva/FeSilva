@@ -34,5 +34,3 @@
 
 <br><br>
 
-
-Apaixonado por tecnologia.
