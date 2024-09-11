@@ -62,12 +62,12 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; margin-right: 10px;">
     <h3 align="left">💡 General Statistics:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true" alt="GitHub stats" style="width: 100%; max-width: 50px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true" alt="GitHub stats" style="width: 50%; max-width: 50px;"/>
   </div>
   
   <div style="flex: 1; margin-left: 10px;">
     <h3 align="left">📈 Most Used Languages:</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true&theme=dark" alt="Top Languages" style="width: 100%; max-width: 50px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true&theme=dark" alt="Top Languages" style="width: 50%; max-width: 50px;"/>
   </div>
 </div>
 
