@@ -1,7 +1,6 @@
    <h1 align="center"><div style="display: inline_block">✅ Bem-vindo ao meu github</div></h1>
   <div style="display: inline_block">
      <h3 align="left">👦Sobre mim 🌱</h3>
-     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
      <ul>
        <li>👋 Me chamo Felipe Feitosa da Silva, tenho 27 anos.</li>
        <li>📌 São Paulo, Brasil.</li>
@@ -60,22 +59,12 @@
   </ul>
 </div>
 <div style="display: inline_block">
-  <h3 align="left">🧩 Extras:</h3>
-  <ul>
-    <li>
-       <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
-      <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-      <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" alt="LibreOffice"/>
-      <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Google Chrome"/>
-      <img src="https://img.shields.io/badge/XAMPP-FE7A16?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-    </li>
-  </ul>
+  <h3 align="left">💡 General statistics and Most used languages:</h3>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+
+
+
 <div style="display: inline_block">
 <h1 align="center">✅ Entre em contato! ✉️</h1>
    
