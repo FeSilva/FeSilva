@@ -1,10 +1,9 @@
    <h1 align="center"><div style="display: inline_block">✅ Bem-vindo ao meu github</div></h1>
-   <h3 align="center">👨‍💻 Sobre Mim </h3>
    <div style="display: inline_block"> 
+      <h3 align="left">👨‍💻 Sobre Mim </h3>
       <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/> 
       <p> - Me chamo Felipe Feitosa da Silva, tenho 27 anos. <br>
        - Sou um desenvolvedor com mais de 11 anos de experiência, Atuo como Analista de Desenvolvimento e Líder Técnico, guiando equipes em direção à excelência.</p> 
-
    </div>
 
 
