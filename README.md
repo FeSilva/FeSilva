@@ -67,7 +67,8 @@
   
   <div style="flex: 1;">
     <h3 align="left">📈 Most Used Languages:</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true&theme=dark" alt="Top Languages" style="width: 100%; max-width: 500px;"/>
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+  
   </div>
 </div>
 
