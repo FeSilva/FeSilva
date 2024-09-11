@@ -62,7 +62,7 @@
 <div style="display: inline_block">
   <h3 align="left">💡 General statistics and Most used languages:</h3>
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true&theme=dark)
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true)
 </div>
