@@ -63,12 +63,13 @@
   <div style="flex: 1;">
     <h3 align="left">💡 General Statistics:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true" alt="GitHub stats" style="width: 100%; max-width: 500px;"/>
+      
+     
   </div>
   
   <div style="flex: 1;">
     <h3 align="left">📈 Most Used Languages:</h3>
-    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-  
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
   </div>
 </div>
 
