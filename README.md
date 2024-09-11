@@ -1,4 +1,4 @@
-   <div align="center">Bem-vindo ao meu github</div>
+   <div align="center"><div style="display: inline_block">✅ Bem-vindo ao meu github</div></div>
    <div style="display: inline_block">
       <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
       Sou um desenvolvedor com mais de 11 anos de experiência, apaixonado por criar soluções tecnológicas e com foco em desenvolvimento de software e tecnologias cloud. Atuo como Analista de Desenvolvimento e Líder Técnico.
