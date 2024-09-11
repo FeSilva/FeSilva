@@ -62,11 +62,13 @@
 <div style="display: inline_block">
   <h3 align="left">💡 General statistics and Most used languages:</h3>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </div>
 
 
 
-<div style="display: inline_block">
+<div>
 <h1 align="center">✅ Entre em contato! ✉️</h1>
    
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-feitosa-da-silva-750596105/)
