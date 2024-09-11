@@ -59,20 +59,6 @@
   </ul>
 </div>
 
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-    <h3 align="left">💡 General Statistics:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true" alt="GitHub stats" style="width: 100%; max-width: 500px;"/>
-      
-     
-  </div>
-  
-  <div style="flex: 1;">
-    <h3 align="left">📈 Most Used Languages:</h3>
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-  </div>
-</div>
-
 
 
 <div>
