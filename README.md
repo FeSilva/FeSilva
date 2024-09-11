@@ -1,8 +1,9 @@
-### Faaaala Dev, Felipe Feitosa aqui ! 🤙
+👋 Faaaala, Dev! Eu sou o Felipe Feitosa da Silva
 <div>
- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FeSilva&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   Sou um desenvolvedor com mais de 11 anos de experiência, apaixonado por criar soluções tecnológicas e com foco em desenvolvimento de software e tecnologias cloud. Atuo como Analista de Desenvolvimento e Líder Técnico.
    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+
 <br>
 
 <div  align="center"> 
