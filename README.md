@@ -10,9 +10,6 @@
      </ul>
    </div>
 
-
-
-
  <div style="display: inline_block">
      <h3 align="left">⚡Skills:</h3>
      <ul>
@@ -53,9 +50,17 @@
     </li>
   </ul>
 </div>
-
 <div style="display: inline_block">
-  <h3 align="left">🧩 Extrax:</h3>
+  <h3 align="left">☁️ Cloud:</h3>
+  <ul>
+    <li>
+       <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws">
+       <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="AzureDevops">
+    </li>
+  </ul>
+</div>
+<div style="display: inline_block">
+  <h3 align="left">🧩 Extras:</h3>
   <ul>
     <li>
        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
@@ -73,18 +78,9 @@
 </div>
 <div style="display: inline_block">
 <h1 align="center">✅ Entre em contato! ✉️</h1>
-
+   
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-feitosa-da-silva-750596105/)
 </div
-<br><br>
 
-<h1 align="center">Cloud ☁️</h1>
-<div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws">
-    <img align="center" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="AzureDevops">
-
-
-</div>
-</div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
