@@ -61,8 +61,7 @@
 
 <div style="display: inline_block">
   <h3 align="left">💡 General statistics and Most used languages:</h3>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
-   
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&hide_progress=true)
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeSilva&theme=dark&show_icons=true)
 </div>
 
