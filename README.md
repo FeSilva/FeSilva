@@ -1,11 +1,12 @@
    <h1 align="center"><div style="display: inline_block">✅ Bem-vindo ao meu github</div></h1>
   <div style="display: inline_block">
-     <h3 align="left">👨‍💻 Sobre Mim</h3>
+     <h3 align="left">👦Sobre mim 🌱</h3>
      <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&langs_count=16&theme=great-gatsby"/>
      <ul>
-       <li>Me chamo Felipe Feitosa da Silva, tenho 27 anos.</li>
-       <li>Sou um desenvolvedor com mais de 11 anos de experiência.</li>
-       <li>Atuo como Analista de Desenvolvimento e Líder Técnico, guiando equipes em direção à excelência.</li>
+       <li>👋 Me chamo Felipe Feitosa da Silva, tenho 27 anos.</li>
+       <li>📌 São Paulo, Brasil.</li>
+       <li>👨‍💻 Sou um desenvolvedor com mais de 11 anos de experiência.</li>
+       <li>💬 Pergunte-me sobre Python / PHP / React / Flutter / AWS posso te ajudar!.</li>
      </ul>
    </div>
 
