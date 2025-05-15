@@ -11,8 +11,7 @@
 - 👋 Me chamo **Felipe Feitosa**, tenho 27 anos.
 - 📍 Baseado em São Paulo - Brasil.
 - 💼 Desenvolvedor com **11+ anos de experiência**.
-- 🔥 Co-fundador e mente inovadora na área de tecnologia e gestão.
-- 💬 Me chama pra trocar ideia sobre: **Python, PHP, React, Flutter, AWS**.
+- 💬 Me chama pra trocar ideia sobre: **Python, PHP, React, AWS**.
 
 ---
 
