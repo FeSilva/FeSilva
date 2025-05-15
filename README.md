@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+soluções+escaláveis;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+solu%C3%A7%C3%B5es+escal%C3%A1veis;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
+
 
 ---
 
