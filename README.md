@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 👋 Me chamo **Felipe Feitosa**, tenho 27 anos.
+- 👋 Me chamo **Felipe Feitosa**, tenho 28 anos.
 - 📍 Baseado em São Paulo - Brasil.
 - 💼 Desenvolvedor com **11+ anos de experiência**.
 - 💬 Me chama pra trocar ideia sobre: **Python, PHP, React, AWS**.
