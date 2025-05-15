@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Bem-vindo ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+soluções+escaláveis;Apaixonado+por+tecnologia+e+inovação](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+solu%C3%A7%C3%B5es+escal%C3%A1veis;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+soluções+escaláveis;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
 </p>
 
 ---
@@ -57,23 +57,6 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
-
-## 📊 Meus Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FeSilva&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-feitosa-da-silva-750596105/)
