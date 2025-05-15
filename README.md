@@ -61,15 +61,15 @@
 ## 📊 Meus Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipedev01&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FeSilva&show_icons=true&theme=radical" alt="Felipe's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedev01&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeSilva&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=felipedev01&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FeSilva&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
