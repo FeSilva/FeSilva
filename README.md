@@ -156,6 +156,18 @@ const felipe = {
 
 <br>
 
+'Plataformas Desenvolvidas' => [
+    'Gestão de vistorias de obras',
+    'Gerenciamento de crypto ativos',
+    'Sistema de KPIs e cashback',
+    'Monitoramento de cargas com GPS',
+    'Monitoramento de pessoas em tempo real com rastreamento GPS',
+    'Central de atendimento via WhatsApp com chatbot integrado',
+    'Sistema de relatórios automáticos de eventos de monitoramento',
+    'Gestão de agenda e programação de visitas',
+    'Plataforma multiestado com suporte a internacionalização (BR/COL)',
+],
+
 ## 🎯 Projetos & Soluções
 ```php
 <?php
