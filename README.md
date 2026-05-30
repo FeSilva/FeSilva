@@ -12,7 +12,7 @@ const felipe = {
   idade: 29,
   localizacao: "São Paulo, Brasil 🇧🇷",
   cargo: "Desenvolvedor Full Stack Sênior | Líder Técnico",
-  experiencia: "11+ anos",
+  experiencia: "13+ anos",
   foco: [
     "Arquitetura de Software",
     "Clean Architecture",
@@ -228,7 +228,7 @@ $expertise = [
 
 </div>
 
-- 💼 **11+ anos** desenvolvendo soluções escaláveis e robustas
+- 💼 **13+ anos** desenvolvendo soluções escaláveis e robustas
 - 🏗️ Especialista em **Clean Architecture** e refatoração de sistemas legados
 - ⚡ Experiência sólida em **otimização de performance** e escalabilidade
 - ☁️ **AWS Cloud Expert**: EC2, RDS, SQS, Beanstalk, Load Balancer, Auto Scaling
