@@ -72,36 +72,38 @@ class FelipeSilva(Engineer):
 
 ```mermaid
 flowchart LR
-    U([👤 Usuário / Canal]) --> G[🔐 API Gateway]
-    G --> O{{🧠 Agente Orquestrador}}
+    U([👤 Usuário / Canal]) <--> G[🔐 API Gateway]
+    G <--> O{{🧠 Agente Orquestrador<br/>LLM}}
 
-    O --> A1[🤖 Agente Especialista<br/>Validação]
-    O --> A2[🤖 Agente Especialista<br/>Atendimento]
-    O --> A3[🤖 Agente Especialista<br/>Documentação]
+    O <-->|delega / retorna| A1[🤖 Agente Especialista<br/>Validação]
+    O <-->|delega / retorna| A2[🤖 Agente Especialista<br/>Atendimento]
+    O <-->|delega / retorna| A3[🤖 Agente Especialista<br/>Documentação]
 
-    A1 & A2 & A3 --> R[(📚 RAG<br/>Embeddings + Vector DB)]
-    A1 & A2 & A3 --> T[🔧 Tools / MCP]
-    T --> L[🏛️ Sistemas Legados<br/>PHP · Yii · Laravel]
-    T --> C[☁️ AWS<br/>RDS · SQS · S3]
+    subgraph MCP["🔧 Tools via MCP"]
+        R[(📚 RAG<br/>Embeddings + Vector DB)]
+        L[🏛️ Sistemas Legados<br/>PHP · Yii · Laravel]
+        C[☁️ AWS<br/>RDS · SQS · S3]
+    end
 
-    R --> M[✨ LLM]
-    O --> M
+    A1 & A2 & A3 <-->|tool call ⇄ resultado| MCP
 
     classDef ai fill:#0E7490,stroke:#22D3EE,color:#fff;
     classDef infra fill:#161B22,stroke:#7C3AED,color:#E6EDF3;
-    class O,A1,A2,A3,M ai;
-    class G,R,T,L,C infra;
+    class O,A1,A2,A3 ai;
+    class G,R,L,C infra;
 ```
+
+<sub>Cada agente é um LLM com papel, prompt e ferramentas próprios. O raciocínio acontece nos agentes; o MCP é a camada pela qual eles consultam conhecimento e agem em sistemas reais, num ciclo de chamada e resultado até a resposta final voltar pelo orquestrador.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 Agentes & Orquestração
-- Agente orquestrador que organiza e documenta demandas
+- Agente orquestrador que organiza, delega e documenta demandas
 - Agentes especialistas com papéis bem definidos
 - Validação automatizada de ambientes contra manuais do sistema
-- Tool calling / MCP para agir em sistemas reais
+- Tool calling via MCP para agir em sistemas reais
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +111,7 @@ flowchart LR
 ### 📚 RAG & Conhecimento
 - Ingestão de documentos (PDFs, manuais, bases internas)
 - Vetorização recorrente com embeddings
-- Busca semântica para respostas com contexto
+- Busca semântica exposta como tool, consultada pelos agentes sob demanda
 - Bases de conhecimento sempre atualizadas
 
 </td>
